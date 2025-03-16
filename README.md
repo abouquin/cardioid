@@ -1,4 +1,4 @@
-# cardioid
+# Cardioid
 Verified to work with:
 Python 2.7
 Numpy 1.14
